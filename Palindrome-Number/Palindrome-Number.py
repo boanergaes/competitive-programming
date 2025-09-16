@@ -1,5 +1,5 @@
 class Solution:
-    def isPalindrome(self, x: int) -> bool:
+    def isPalindrome(x):
         r = x
         n = 0
         while r > 0:

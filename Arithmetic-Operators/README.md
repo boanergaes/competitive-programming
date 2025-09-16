@@ -7,7 +7,7 @@ The provided code stub reads two integers from STDIN,  and . Add code to print t
 3. The third line contains the product of the two numbers.
 
 # Problem link
-<a href="https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true">hakerrank</a>
+<a href="https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true" target="_blank">hakerrank</a>
 
 # Status
 * solved ✅
